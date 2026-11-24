@@ -6,7 +6,7 @@ Tested with BepInEx version `5.4.23.6`.
 
 ## Install
 
-- Download the DLL from the [releases page of this repository](https://github.com/Kartones/cozy-card-art-plugin/releases/latest/).
+- Download the DLL from the [releases page of this repository](https://github.com/Kartones/cozy-cart-art-plugin/releases/latest/).
 - With the game closed, then copy `CozyCartArt.dll` to `<game-folder>\BepInEx\plugins\`. 
 - Launch the game once: it creates `<game-folder>\BepInEx\config\CozyCartArt\` containing `front\`, `rear\` and `titles.txt`
 - Check `<game-folder>\BepInEx\LogOutput.log` for `Cozy Cart Art loaded` and `Applied N title override(s)`
